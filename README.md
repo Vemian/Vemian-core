@@ -1,5 +1,4 @@
 # Vemian-core
-Core project.
+Core project
 
-
-<script src="https://liberapay.com/zumex2/widgets/giving.js"></script>
+<img src="https://img.shields.io/liberapay/receives/zumex2.svg?logo=liberapay">
