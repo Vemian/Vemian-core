@@ -1,4 +1,4 @@
 # Vemian-core
 Core project
 
-<img src="https://img.shields.io/liberapay/receives/zumex2.svg?logo=liberapay">
+<noscript><a href="https://liberapay.com/zumex2/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
